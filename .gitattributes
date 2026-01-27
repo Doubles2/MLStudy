@@ -1,0 +1,4 @@
+* text=auto
+
+# 노트북은 보통 LF로 고정 추천(팀/CI 호환성)
+*.ipynb text eol=lf
