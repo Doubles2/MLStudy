@@ -10,4 +10,4 @@
 공부 목록
 |책이름|환경|느낀점|
 |:---|:---|:---|
-|[머신 러닝 교과서: 파이토치 편](https://github.com/Doubles2/MLStudy/tree/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EA%B5%90%EA%B3%BC%EC%84%9C/)|Windows10(64bit), Python3(3.13.3)|공부 후 작성 예정|
+|[머신 러닝 교과서: 파이토치 편](https://github.com/gilbutITbook/080311)|Windows10(64bit), Python3(3.13.3)|공부 후 작성 예정|
