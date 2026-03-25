@@ -1,7 +1,18 @@
+# virtual environments
 **/.venv/
-**/inflearn_recom_lec/
+**/venv/
+**/env/
+**/pyml-book/
+
+# python cache
 **/__pycache__/
 **/*.pyc
+
+# jupyter
 **/.ipynb_checkpoints/
+
+# macOS
 **/.DS_Store
+
+# data
 **/data/
